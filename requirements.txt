@@ -1,0 +1,7 @@
+###### Requirements without Version Specifiers ######
+paho-mqtt 
+pandas 
+db-sqlite3
+numpy
+matplotlib
+openpyxl
